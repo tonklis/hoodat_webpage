@@ -1,0 +1,51 @@
+article {
+  margin: 1em;
+  text-align: center;
+}
+
+aside {
+  float: right;
+}
+
+aside ul {
+  list-style:none;
+}
+
+body {
+  font-size: 1em;
+  margin: auto;
+}
+
+footer {
+  bottom: 0;
+  float: right;
+  margin: 1em;
+}
+
+footer a {
+  text-decoration: none;
+}
+
+#itunes_store{
+  margin: 2em 1em 0.5em;
+  width: 400px;
+}
+
+header {
+  margin: auto;
+  text-align: center;
+}
+
+header img {
+  float:right;
+  margin: 1em;
+}
+
+section {
+}
+
+.social_icons {
+  height: 100px;
+  margin: 2em 2em 1em 0;
+  width: 100px;
+}
